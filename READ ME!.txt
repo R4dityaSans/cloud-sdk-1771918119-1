@@ -1,0 +1,61 @@
+Hello there!... 
+
+Thank you for being a tester of my project...
+
+BEFORE YOU RUN THE PROJECT!: make sure you make an empty folder in you desktop or anywhere in your laptop/PC (mobile devices is not supported [yet])... after you make the folder, put all of the folder from the ZIP into the empty folder... after that you can run the project... 
+
+project is still a python (.py) file, not a (.exe) file 
+
+How To Run: 
+	1.) install Python (in VScode) 
+	2.) install PGzero: https://pygame-zero.readthedocs.io/en/stable/installation.html
+ 	3.) in the Terminal write: "python sans_adventure.py"
+
+how to play: simple, because it's still work in progress project, soo not much will happen... kill the enemies in the map and win...
+
+Update V0.1:
+	- added sounds, backsound for winning and losing...
+
+Update V0.2:
+	- room expansion, from 2 -> 5 rooms!...
+	- in game music (still not official)
+
+Update V0.3:
+	- Added Tutorial mode
+
+Update V0.4:
+	- Fix Bug In Tutorial mode
+	- Added Chest Bonuses
+
+Update V0.5:
+	- Bug Fixes
+	- Added Difficulty Options
+	- more UI
+
+Update V0.6:
+	- Bug Fixes
+	- Extended Map
+	- Added 4 new Skins
+
+Update V0.7:
+	- Bug Fixes
+	- added hold key for movement
+	- added 4 more new Skins
+	- added Gaster Blaster attacks
+
+Update V0.8:
+	- added Final Boss
+
+Update V0.9:
+	- increase boss stats depending on the difficulty
+	- fixed some bugs
+
+Update V1:
+	- fixed bugs
+	- added dialogs
+
+Game Made By SN.Raditya D... :)
+
+"Have A Sans-ational Day"
+
+
